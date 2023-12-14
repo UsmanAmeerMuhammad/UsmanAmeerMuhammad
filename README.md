@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UsmanAmeerMuhammad
 - 👀 I’m interested in Artificial Intelligence, Software Development
 - 🌱 I’m currently learning Software Engineering @alx_africa
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project that has AI involved in it
 - 📫 How to reach me ...
 
 <!---
